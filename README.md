@@ -26,5 +26,12 @@
   <a href = "https://www.gmail.com/patrick.souza.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/patrick-e-s-silva-335788234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- 
 </div>
+
+## Algumas Habilidades
+
+- Digitação 
+- Microsoft Word
+- Excel
+- Git
+- Atendimento ao cliente
