@@ -9,8 +9,10 @@
 <div align="center">
   <a href="https://github.com/Patrick-souza-silva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patrick-souza-silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-souza-silva&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-souza-silva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+## Linguagens que uso
 
 </div>
 <div style="display: inline_block"><br>
@@ -19,7 +21,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-##
+## Redes Sociais
 
 <div> 
   <a href="https://instagram.com/_patrick.edueu_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
