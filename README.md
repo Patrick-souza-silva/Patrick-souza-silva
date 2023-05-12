@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Patrick
 
-- Atualmente estou apenas estudando.
+- Atualmente trabalhando ne MGS SISTEAS.
 - Curso Análise e Desenvolvimento de Sistemas.
 - Instituição UNIPAR.
 
