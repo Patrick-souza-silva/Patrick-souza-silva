@@ -40,3 +40,8 @@
 - Excel
 - Git
 - Atendimento ao cliente
+- React
+- Java Script
+- Html
+- Css
+- Type Script
