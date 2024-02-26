@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Patrick
 
-- Atualmente trabalhando n CES SISTEMAS, PRESTANDO SUPORTE AO SOFTWARE.
+- Atualmente trabalhando na CES SISTEMAS.
 - Curso Análise e Desenvolvimento de Sistemas.
 - Instituição UNIPAR.
 
