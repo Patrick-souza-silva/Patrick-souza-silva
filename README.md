@@ -1,5 +1,3 @@
-# 👋 Olá, eu sou o Patrick Souza
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF\&size=28\&center=true\&vCenter=true\&width=800\&lines=Desenvolvedor+Full+Stack;Especialista+em+Sistemas+Web+e+Mobile;Professor+de+Programação;Focado+em+Arquitetura+e+Escalabilidade)](https://git.io/typing-svg)
 
 ---
