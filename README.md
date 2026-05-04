@@ -58,32 +58,6 @@ Atuo construindo soluções completas, desde a modelagem de banco até a interfa
 
 </div>
 
----
-
-## 🧠 O que eu ensino como professor?
-
-Como professor, foco em:
-
-* Lógica de programação aplicada
-* Estruturação de sistemas reais
-* Boas práticas de desenvolvimento
-* Integração entre frontend, backend e banco
-* Preparação para o mercado
-
----
-
-## 📫 Contato
-
-💼 LinkedIn:
-👉 https://www.linkedin.com/in/patricksouzadev/?locale=pt
-
----
-
-## 🐍 Contribuições
-
-![Snake animation](https://github.com/Patrick-souza-silva/Patrick-souza-silva/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 👀 Visitas no perfil
 
