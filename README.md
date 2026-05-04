@@ -15,23 +15,14 @@ Atuo construindo soluções completas, desde a modelagem de banco até a interfa
 
 ## 🛠️ Stack Tecnológica  
 
-### 🧠 Linguagens & Base  
 ![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
-
-### ⚛️ Frontend & Mobile  
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)  
 ![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react)
-
-### 🔗 Backend & APIs  
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=for-the-badge&logo=graphql)
-
-### 🗄️ Banco de Dados  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
 ![pgAdmin](https://img.shields.io/badge/-pgAdmin-0D1117?style=for-the-badge&logo=postgresql)
-
-### 🖥️ Ambiente  
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-0D1117?style=for-the-badge&logo=ubuntu)
 
 ---
